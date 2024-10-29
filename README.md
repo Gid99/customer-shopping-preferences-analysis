@@ -41,7 +41,7 @@ The dataset used in this analysis includes various customer attributes such as:
 
 ## Recommendations
 Based on the findings, the following recommendations are suggested:
-1. **Target Marketing**: Focus on high-spending age groups (30-50), particularly in fall and winter seasons.
+1. **Target Marketing**: Since spending varies across all age groups with some peaks around age 50, consider tailoring marketing efforts to reach a broad age demographic. Additionally, emphasize campaigns during the fall and winter seasons, which show higher overall spending.
 2. **Inventory Optimization**: Stock popular items like Blouses, Jewelry, and Pants to meet demand.
 3. **Seasonal Promotions**: Plan targeted promotions for clothing and accessory items during peak seasons to maximize sales.
 4. **Discount Strategy**: Continue offering discounts, as 43% of customers are influenced by them, but explore optimizing discount amounts for profitability.
