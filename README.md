@@ -22,12 +22,12 @@ The dataset used in this analysis includes various customer attributes such as:
 ## Analysis Summary
 
 ### 1. Demographic Insights
-- **Age Distribution**: The age distribution is fairly balanced, with most customers falling between ages 30 and 50.
+- **Age Distribution**: The age distribution is relatively balanced across all age groups, indicating no single age range dominates the customer base.
 - **Gender Distribution**: There is a higher representation of male customers compared to female customers.
 
 ### 2. Spending Patterns
-- **By Age**: Middle-aged groups, particularly around ages 30-50, tend to have higher average spending.
-- **By Gender**: While both genders have similar spending patterns, males slightly outspend females on average.
+- **By Age**: Average spending fluctuates significantly across all age groups, with some isolated peaks, particularly around age 50. There is no clear pattern indicating higher spending concentrated in specific age ranges.
+- **By Gender**: While both genders have similar spending patterns, females slightly outspend males on average.
 
 ### 3. Popular Products and Categories
 - **Top Items**: Blouse, Jewelry, and Pants are among the most popular items.
