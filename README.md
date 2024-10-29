@@ -1,7 +1,7 @@
 # Customer Shopping Preferences Analysis
 
 ## Project Overview
-This project analyzes customer shopping preferences to help businesses understand their customer base, optimize product offerings, and improve marketing strategies. Using Python, we explore various patterns in the dataset, including demographic insights, spending habits, product popularity, seasonal trends, and the impact of discounts on purchases.
+This project analyzes customer shopping preferences to help a business understand their customer base, optimize product offerings, and improve marketing strategies. Using Python, we explore various patterns in the dataset, including demographic insights, spending habits, product popularity, seasonal trends, and the impact of discounts on purchases.
 
 ## Objectives
 - To identify key customer demographics and spending patterns.
