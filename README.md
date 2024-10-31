@@ -27,7 +27,7 @@ The dataset used in this analysis includes various customer attributes such as:
 
 ### 2. Spending Patterns
 - **By Age**: Average spending fluctuates significantly across all age groups, with some isolated peaks, particularly around age 50. There is no clear pattern indicating higher spending concentrated in specific age ranges.
-- **By Gender**: While both genders have similar spending patterns, females slightly outspend males on average.
+- **By Gender**: Despite the larger number of male customers, females have a slightly higher average purchase amount per transaction.
 
 ### 3. Popular Products and Categories
 - **Top Items**: Blouse, Jewelry, and Pants are among the most popular items.
